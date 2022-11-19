@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp codebase="https://www.ibm.com/support/fixcentral/dldirector/">
+<information><title>IBM Download Director</title><vendor>IBM</vendor><icon href="https://www.ibm.com/support/fixcentral/dldirector/favicon.ico"/><icon href="https://www.ibm.com/support/fixcentral/dldirector/splash.gif" kind="splash"/></information>
+<resources><j2se version="1.7+"/><jar href="dldirector.jar" /></resources>
+<security><all-permissions /></security>
+<application-desc main-class="com.ibm.tequila.dlmgr.InstallProtocol"><argument>1%3Bhabanero%3Bhttps%3A%2F%2Fak-delivery04-mul.dhe.ibm.com%2Ftqd%3BIMfix%2C23%3BCM%2FIM%2F05nxx%2F0%2Fv9.7fp11_ntx64_rtcl.exe%2CXa.6%2FXb.jusyLTSp44S0QkYEFExQV1FbgbDjYFk42P7ClMVPU3GGma-V0yt216TMXag%2FXc.CM%2FIM%2F05nxx%2F0%2Fv9.7fp11_ntx64_rtcl.exe%2FXd.%2FXf.LPR.D1vk%2FXg.12036363%2FXi.habanero%2FXY.habanero%2FXZ.HCpFwWmM39FzxXzGIqmYwqwa5WOnJrpW%3BCM%2FIM%2F05nxx%2F0%2Fv9.7fp11_ntx64_rtcl_EN.exe%2CXa.6%2FXb.jusyLTSp44S0QkYEFExQV1FbgbDjYFk42P7ClMVPU3GGma-V0yt215y0MTQ%2FXc.CM%2FIM%2F05nxx%2F0%2Fv9.7fp11_ntx64_rtcl_EN.exe%2FXd.%2FXf.LPR.D1vk%2FXg.12036363%2FXi.habanero%2FXY.habanero%2FXZ.aKRG6FYp2IzeH7gEgeoBuRifkn7tyX1c%26h%3Dhttps%3A%2F%2Fwww.ibm.com%2Fsupport%2Ffixcentral%2Fswg%2Fdldirector%2F</argument></application-desc>
+<update check="always" policy="always"/>
+</jnlp>
